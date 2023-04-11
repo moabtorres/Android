@@ -28,8 +28,8 @@
 
 
         <TextView
-            android:layout_width="298dp"
-            android:layout_height="109dp"
+            android:layout_width="305dp"
+            android:layout_height="114dp"
             android:layout_marginTop="230dp"
             android:layout_marginBottom="395dp"
             android:paddingLeft="6dp"
@@ -39,14 +39,14 @@
             android:textStyle="bold"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.247"
+            app:layout_constraintHorizontal_bias="0.15"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintVertical_bias="0.0" />
 
         <TextView
-            android:layout_width="395dp"
-            android:layout_height="283dp"
+            android:layout_width="401dp"
+            android:layout_height="328dp"
             android:layout_marginTop="300dp"
             android:layout_marginBottom="15dp"
             android:paddingLeft="20dp"
@@ -67,10 +67,9 @@
             android:textStyle="bold"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="1.0"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.345" />
+            app:layout_constraintVertical_bias="0.385" />
 
         <ImageView
             android:id="@+id/icNavegar"
